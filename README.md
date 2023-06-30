@@ -10,7 +10,7 @@ Trabalho desenvolvido durante a graduação para a disciplina de **bancos de dad
 
 ## Funcionalidades:
 - Inclusão, alteração, exclusão e listagem de Bibliotecas;
-- Inclusão, alteração, exclusão e listagem de Livros de Bibliotecas específicas.
+- Inclusão, alteração, exclusão e listagem de Livros em Bibliotecas específicas.
 
 ## Desenvolvimento:
 - Diagrama de Classes
